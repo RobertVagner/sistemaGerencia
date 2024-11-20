@@ -4,7 +4,7 @@
 
 namespace sistemaGerencia.Migrations
 {
-    public partial class InitialDBTeste : Migration
+    public partial class InitialDB : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

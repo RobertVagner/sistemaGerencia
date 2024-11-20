@@ -11,8 +11,8 @@ using sistemaGerencia.Data;
 namespace sistemaGerencia.Migrations
 {
     [DbContext(typeof(SistemaGerenciamentoDBContext))]
-    [Migration("20241119231543_InitialDBTeste")]
-    partial class InitialDBTeste
+    [Migration("20241120171414_InitialDB")]
+    partial class InitialDB
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

@@ -5,6 +5,6 @@
         public int IdSistema { get; set; }
         public string? NomeSistema { get; set; }
         public string? DescricaoSistema { get; set; }
-        public ICollection<GrupoModel> grupos { get; set; }
+        public ICollection<GrupoModel>? grupos { get; set; }
     }
 }
