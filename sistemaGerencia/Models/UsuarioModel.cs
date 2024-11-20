@@ -6,6 +6,6 @@
         public string? NomeUsuario { get; set; }
         public string? EmailUsuario { get; set; }
 
-        public ICollection<GrupoModel> grupos { get; set; }
+        public ICollection<GrupoModel>? grupos { get; set; }
     }
 }
