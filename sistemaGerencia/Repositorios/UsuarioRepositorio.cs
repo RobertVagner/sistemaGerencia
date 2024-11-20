@@ -22,6 +22,12 @@ namespace sistemaGerencia.Repositorios
         {
             return await _dbContext.usuario.ToListAsync();
         }
+
+        public async Task<UsuarioModel> BuscarPorCredenciais(string nome)
+        {
+            return await _dbContext.usuario.FirstOrDefaultAsync(x => x.NomeUsuario == nome);
+        }
+
         public async Task<UsuarioModel> AdicionarUsuario(UsuarioModel usuario)
         {
             await _dbContext.usuario.AddAsync(usuario);
