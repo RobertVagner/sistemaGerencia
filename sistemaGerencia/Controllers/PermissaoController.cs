@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using sistemaGerencia.Models;
 using sistemaGerencia.Repositorios.Interfaces;
@@ -7,6 +8,7 @@ namespace sistemaGerencia.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class PermissaoController : ControllerBase
     {
         private readonly IPermissaoRepositorio _permissaoRepositorio;
