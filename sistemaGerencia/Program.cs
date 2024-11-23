@@ -4,7 +4,7 @@ using Microsoft.IdentityModel.Tokens;
 using sistemaGerencia.Data;
 using sistemaGerencia.Repositorios.Interfaces;
 using sistemaGerencia.Repositorios;
-using sistemaGerencia.Services;  // Adicione esta linha para importar o namespace do TokenService
+using sistemaGerencia.Services;
 using System.Text;
 
 namespace sistemaGerencia
@@ -68,6 +68,33 @@ namespace sistemaGerencia
             });
 
             builder.Services.AddAuthorization();
+
+            builder.Services.AddSwaggerGen(c =>
+            {
+                c.AddSecurityDefinition("Bearer", new Microsoft.OpenApi.Models.OpenApiSecurityScheme
+                {
+                    In = Microsoft.OpenApi.Models.ParameterLocation.Header,
+                    Description = "JWT Authorization header using the Bearer scheme.",
+                    Name = "Authorization",
+                    Type = Microsoft.OpenApi.Models.SecuritySchemeType.ApiKey,
+                    BearerFormat = "JWT"
+                });
+
+                c.AddSecurityRequirement(new Microsoft.OpenApi.Models.OpenApiSecurityRequirement
+                {
+                    {
+                        new Microsoft.OpenApi.Models.OpenApiSecurityScheme
+                        {
+                            Reference = new Microsoft.OpenApi.Models.OpenApiReference
+                            {
+                            Type = Microsoft.OpenApi.Models.ReferenceType.SecurityScheme,
+                            Id = "Bearer"
+                            }
+                        },
+                        new string[] {}
+                        }
+                    });
+                });
 
             var app = builder.Build();
 

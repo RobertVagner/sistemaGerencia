@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using sistemaGerencia.Models;
 using sistemaGerencia.Repositorios;
@@ -8,6 +9,7 @@ namespace sistemaGerencia.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class SistemaController : ControllerBase
     {
         private readonly ISistemaRepositorio _sistemaRepositorio;
