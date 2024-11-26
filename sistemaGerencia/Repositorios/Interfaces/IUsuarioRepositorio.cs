@@ -10,5 +10,6 @@ namespace sistemaGerencia.Repositorios.Interfaces
         Task<UsuarioModel> AtualizarUsuario(UsuarioModel usuario, int id);
         Task<UsuarioModel> BuscarPorCredenciais(string usuario);
         Task<bool> ExcluirUsuario(int id);
+        Task<List<PermissaoModel>> BuscarPermissoesPorNome(string nomeUsuario);
     }
 }
