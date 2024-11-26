@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mairo\\Desktop\\Nova pasta\\sistemaGerencia-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mairo\\Desktop\\Nova pasta\\sistemaGerencia-master\\sistemaGerencia\\TokenService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sistemaGerencia\\TokenService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mairo\\Desktop\\Nova pasta\\sistemaGerencia-master\\sistemaGerencia\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sistemaGerencia\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mairo\\Desktop\\Nova pasta\\sistemaGerencia-master\\sistemaGerencia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sistemaGerencia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mairo\\Desktop\\Nova pasta\\sistemaGerencia-master\\sistemaGerencia\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sistemaGerencia\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\Nova pasta\\sistemaGerencia-master\\sistemaGerencia\\TokenService.cs",
+              "RelativeDocumentMoniker": "sistemaGerencia\\TokenService.cs",
+              "ToolTip": "C:\\Users\\mairo\\Desktop\\Nova pasta\\sistemaGerencia-master\\sistemaGerencia\\TokenService.cs",
+              "RelativeToolTip": "sistemaGerencia\\TokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T23:53:46.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\Nova pasta\\sistemaGerencia-master\\sistemaGerencia\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "sistemaGerencia\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\mairo\\Desktop\\Nova pasta\\sistemaGerencia-master\\sistemaGerencia\\appsettings.Development.json",
+              "RelativeToolTip": "sistemaGerencia\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T23:53:41.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\Nova pasta\\sistemaGerencia-master\\sistemaGerencia\\appsettings.json",
+              "RelativeDocumentMoniker": "sistemaGerencia\\appsettings.json",
+              "ToolTip": "C:\\Users\\mairo\\Desktop\\Nova pasta\\sistemaGerencia-master\\sistemaGerencia\\appsettings.json",
+              "RelativeToolTip": "sistemaGerencia\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T23:53:39.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\Nova pasta\\sistemaGerencia-master\\sistemaGerencia\\Program.cs",
+              "RelativeDocumentMoniker": "sistemaGerencia\\Program.cs",
+              "ToolTip": "C:\\Users\\mairo\\Desktop\\Nova pasta\\sistemaGerencia-master\\sistemaGerencia\\Program.cs",
+              "RelativeToolTip": "sistemaGerencia\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T23:53:05.134Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

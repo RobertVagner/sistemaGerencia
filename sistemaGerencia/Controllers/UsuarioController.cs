@@ -50,5 +50,16 @@ namespace sistemaGerencia.Controllers
             Boolean idUser = await _usuarioRepositorio.ExcluirUsuario(id);
             return Ok(idUser);
         }
+        [HttpGet("nome/{nomeUsuario}/permissoes")]
+        public async Task<ActionResult<List<PermissaoModel>>> ObterPermissoesPorNome(string nomeUsuario)
+        {
+            var permissoes = await _usuarioRepositorio.BuscarPermissoesPorNome(nomeUsuario);
+            if (permissoes == null || !permissoes.Any())
+            {
+                return NotFound($"Nenhuma permissão encontrada para o usuário com o nome '{nomeUsuario}'.");
+            }
+            return Ok(permissoes);
+        }
+
     }
 }
