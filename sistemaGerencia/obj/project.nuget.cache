@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vh/vsQXBVF4wH8MJ//LoTjn1Cp6YvLlqsSHZxow8rgaDSiQJa7Rl/bAxgPLosxhfD1K+9tRKbh8mtwaD7T+OVA==",
+  "dgSpecHash": "aY0rWpU3OMTWD6SdfHPs2bfwqWUQYRghZtzMc86WJ/LZioQClQwyZsdVKdw04SNUboVUjWeFMskGbZ2/RpvX4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\sistemaGerencia.csproj",
+  "projectFilePath": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\sistemaGerencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mairo\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\mairo\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",

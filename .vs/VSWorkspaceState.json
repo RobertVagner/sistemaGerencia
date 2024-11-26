@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\sistemaGerencia",
-    "\\sistemaGerencia\\Repositorios\\Interfaces"
+    "\\sistemaGerencia"
   ],
-  "SelectedNode": "\\sistemaGerencia\\TokenService.cs",
+  "SelectedNode": "\\sistemaGerencia.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -68,20 +68,22 @@ namespace sistemaGerencia.Repositorios
 
             return true;
         }
-        public async Task<List<PermissaoModel>> BuscarPermissoesPorNome(string nomeUsuario)
+       public async Task<List<PermissaoModel>> BuscarPermissoesPorNome(string nomeUsuario)
         {
-            var usuario = await _dbContext.usuario.Include(u => u.grupos)
-                    .ThenInclude(g => g.permissoes)
+            var usuario = await _dbContext.usuario
+                .Include(u => u.grupos) 
+                    .ThenInclude(g => g.permissoes) 
                 .FirstOrDefaultAsync(u => u.NomeUsuario == nomeUsuario);
 
             if (usuario == null)
             {
                 throw new Exception($"Usuário com o nome: {nomeUsuario} não foi encontrado!");
             }
+
             return usuario.grupos
-                .SelectMany(g => g.permissoes)
-                .Distinct()
-                .ToList();
+                .SelectMany(g => g.permissoes) 
+                .Distinct() 
+                .ToList(); 
         }
-    }
+     }
 }

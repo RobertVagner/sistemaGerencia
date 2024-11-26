@@ -1,62 +1,106 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\",
+  "WorkspaceRootPath": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia-master\\sistemagerencia\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia\\sistemagerencia\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia-master\\sistemagerencia\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia\\sistemagerencia\\controllers\\sistemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\controllers\\sistemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia-master\\sistemagerencia\\repositorios\\permissaorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\repositorios\\permissaorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia\\sistemagerencia\\controllers\\permissaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\controllers\\permissaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia-master\\sistemagerencia\\migrations\\20241120171414_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\migrations\\20241120171414_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia\\sistemagerencia\\controllers\\grupocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\controllers\\grupocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia-master\\sistemagerencia\\migrations\\20241120150016_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\migrations\\20241120150016_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia\\sistemagerencia\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia-master\\sistemagerencia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia-master\\sistemagerencia\\repositorios\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\repositorios\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia-master\\sistemagerencia\\repositorios\\sistemarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\repositorios\\sistemarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia-master\\sistemagerencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia-master\\sistemagerencia\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia\\sistemagerencia\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia-master\\sistemagerencia\\models\\sistemamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\models\\sistemamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia\\sistemagerencia\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia-master\\sistemagerencia\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia-master\\sistemagerencia\\models\\permissaomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia\\sistemagerencia\\models\\permissaomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\models\\permissaomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia-master\\sistemagerencia\\models\\grupomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia\\sistemagerencia\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia\\sistemagerencia\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia\\sistemagerencia\\data\\sistemagerenciamentodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\data\\sistemagerenciamentodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia\\sistemagerencia\\repositorios\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\repositorios\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia\\sistemagerencia\\models\\sistemamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\models\\sistemamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia\\sistemagerencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia\\sistemagerencia\\data\\map\\permissaomap .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\data\\map\\permissaomap .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia\\sistemagerencia\\models\\grupomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\models\\grupomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia\\sistemagerencia\\data\\map\\usuariomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\data\\map\\usuariomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia\\sistemagerencia\\data\\map\\grupomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\data\\map\\grupomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia\\sistemagerencia\\data\\map\\sistemamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\data\\map\\sistemamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia\\sistemagerencia\\repositorios\\interfaces\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\repositorios\\interfaces\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia\\sistemagerencia\\migrations\\20241120171414_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\migrations\\20241120171414_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia\\sistemagerencia\\migrations\\20241120150016_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\migrations\\20241120150016_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia\\sistemagerencia\\repositorios\\sistemarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\repositorios\\sistemarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia\\sistemagerencia\\repositorios\\permissaorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\repositorios\\permissaorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|c:\\users\\mairo\\desktop\\sistemagerencia\\sistemagerencia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D7B14B7-8FC9-4FCD-AB0E-2AE5A03F62D1}|sistemaGerencia\\sistemaGerencia.csproj|solutionrelative:sistemagerencia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -75,36 +119,268 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "sistemaGerencia\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\Properties\\launchSettings.json",
-              "RelativeToolTip": "sistemaGerencia\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-26T01:17:51.033Z",
+              "Title": "SistemaController.cs",
+              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Controllers\\SistemaController.cs",
+              "RelativeDocumentMoniker": "sistemaGerencia\\Controllers\\SistemaController.cs",
+              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Controllers\\SistemaController.cs",
+              "RelativeToolTip": "sistemaGerencia\\Controllers\\SistemaController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:11:30.767Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PermissaoRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\Repositorios\\PermissaoRepositorio.cs",
-              "RelativeDocumentMoniker": "sistemaGerencia\\Repositorios\\PermissaoRepositorio.cs",
-              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\Repositorios\\PermissaoRepositorio.cs",
-              "RelativeToolTip": "sistemaGerencia\\Repositorios\\PermissaoRepositorio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAABBAAAA",
+              "Title": "PermissaoController.cs",
+              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Controllers\\PermissaoController.cs",
+              "RelativeDocumentMoniker": "sistemaGerencia\\Controllers\\PermissaoController.cs",
+              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Controllers\\PermissaoController.cs",
+              "RelativeToolTip": "sistemaGerencia\\Controllers\\PermissaoController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T01:17:24.956Z",
+              "WhenOpened": "2024-11-26T04:11:27.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GrupoController.cs",
+              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Controllers\\GrupoController.cs",
+              "RelativeDocumentMoniker": "sistemaGerencia\\Controllers\\GrupoController.cs",
+              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Controllers\\GrupoController.cs",
+              "RelativeToolTip": "sistemaGerencia\\Controllers\\GrupoController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:11:24.244Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "sistemaGerencia\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "sistemaGerencia\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:11:20.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "sistemaGerencia\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\appsettings.Development.json",
+              "RelativeToolTip": "sistemaGerencia\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T23:56:46.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "sistemaGerencia\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "sistemaGerencia\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDYAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T02:49:07.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PermissaoModel.cs",
+              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Models\\PermissaoModel.cs",
+              "RelativeDocumentMoniker": "sistemaGerencia\\Models\\PermissaoModel.cs",
+              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Models\\PermissaoModel.cs",
+              "RelativeToolTip": "sistemaGerencia\\Models\\PermissaoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:07:49.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Models\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "sistemaGerencia\\Models\\UsuarioModel.cs",
+              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Models\\UsuarioModel.cs",
+              "RelativeToolTip": "sistemaGerencia\\Models\\UsuarioModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:08:01.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "sistemaGerencia\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Properties\\launchSettings.json",
+              "RelativeToolTip": "sistemaGerencia\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T01:17:51.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SistemaGerenciamentoDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Data\\SistemaGerenciamentoDBContext.cs",
+              "RelativeDocumentMoniker": "sistemaGerencia\\Data\\SistemaGerenciamentoDBContext.cs",
+              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Data\\SistemaGerenciamentoDBContext.cs",
+              "RelativeToolTip": "sistemaGerencia\\Data\\SistemaGerenciamentoDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:48:38.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Repositorios\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "sistemaGerencia\\Repositorios\\UsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Repositorios\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "sistemaGerencia\\Repositorios\\UsuarioRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T23:56:43.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SistemaModel.cs",
+              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Models\\SistemaModel.cs",
+              "RelativeDocumentMoniker": "sistemaGerencia\\Models\\SistemaModel.cs",
+              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Models\\SistemaModel.cs",
+              "RelativeToolTip": "sistemaGerencia\\Models\\SistemaModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:07:56.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\TokenService.cs",
+              "RelativeDocumentMoniker": "sistemaGerencia\\TokenService.cs",
+              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\TokenService.cs",
+              "RelativeToolTip": "sistemaGerencia\\TokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T23:51:57.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Program.cs",
+              "RelativeDocumentMoniker": "sistemaGerencia\\Program.cs",
+              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Program.cs",
+              "RelativeToolTip": "sistemaGerencia\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T23:51:58.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PermissaoMap .cs",
+              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Data\\Map\\PermissaoMap .cs",
+              "RelativeDocumentMoniker": "sistemaGerencia\\Data\\Map\\PermissaoMap .cs",
+              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Data\\Map\\PermissaoMap .cs",
+              "RelativeToolTip": "sistemaGerencia\\Data\\Map\\PermissaoMap .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:48:30.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GrupoModel.cs",
+              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Models\\GrupoModel.cs",
+              "RelativeDocumentMoniker": "sistemaGerencia\\Models\\GrupoModel.cs",
+              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Models\\GrupoModel.cs",
+              "RelativeToolTip": "sistemaGerencia\\Models\\GrupoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:07:30.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsuarioMap.cs",
+              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Data\\Map\\UsuarioMap.cs",
+              "RelativeDocumentMoniker": "sistemaGerencia\\Data\\Map\\UsuarioMap.cs",
+              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Data\\Map\\UsuarioMap.cs",
+              "RelativeToolTip": "sistemaGerencia\\Data\\Map\\UsuarioMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:48:13.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GrupoMap.cs",
+              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Data\\Map\\GrupoMap.cs",
+              "RelativeDocumentMoniker": "sistemaGerencia\\Data\\Map\\GrupoMap.cs",
+              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Data\\Map\\GrupoMap.cs",
+              "RelativeToolTip": "sistemaGerencia\\Data\\Map\\GrupoMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:48:31.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SistemaMap.cs",
+              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Data\\Map\\SistemaMap.cs",
+              "RelativeDocumentMoniker": "sistemaGerencia\\Data\\Map\\SistemaMap.cs",
+              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Data\\Map\\SistemaMap.cs",
+              "RelativeToolTip": "sistemaGerencia\\Data\\Map\\SistemaMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:48:29.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Repositorios\\Interfaces\\IUsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "sistemaGerencia\\Repositorios\\Interfaces\\IUsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Repositorios\\Interfaces\\IUsuarioRepositorio.cs",
+              "RelativeToolTip": "sistemaGerencia\\Repositorios\\Interfaces\\IUsuarioRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:46:55.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241120171414_InitialDB.cs",
+              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Migrations\\20241120171414_InitialDB.cs",
+              "RelativeDocumentMoniker": "sistemaGerencia\\Migrations\\20241120171414_InitialDB.cs",
+              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Migrations\\20241120171414_InitialDB.cs",
+              "RelativeToolTip": "sistemaGerencia\\Migrations\\20241120171414_InitialDB.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAUwJYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:02:21.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "20241120150016_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\Migrations\\20241120150016_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Migrations\\20241120150016_InitialCreate.cs",
               "RelativeDocumentMoniker": "sistemaGerencia\\Migrations\\20241120150016_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\Migrations\\20241120150016_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Migrations\\20241120150016_InitialCreate.cs",
               "RelativeToolTip": "sistemaGerencia\\Migrations\\20241120150016_InitialCreate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -112,48 +388,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20241120171414_InitialDB.cs",
-              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\Migrations\\20241120171414_InitialDB.cs",
-              "RelativeDocumentMoniker": "sistemaGerencia\\Migrations\\20241120171414_InitialDB.cs",
-              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\Migrations\\20241120171414_InitialDB.cs",
-              "RelativeToolTip": "sistemaGerencia\\Migrations\\20241120171414_InitialDB.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T00:02:21.36Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "sistemaGerencia\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\appsettings.Development.json",
-              "RelativeToolTip": "sistemaGerencia\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-25T23:56:46.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UsuarioRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\Repositorios\\UsuarioRepositorio.cs",
-              "RelativeDocumentMoniker": "sistemaGerencia\\Repositorios\\UsuarioRepositorio.cs",
-              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\Repositorios\\UsuarioRepositorio.cs",
-              "RelativeToolTip": "sistemaGerencia\\Repositorios\\UsuarioRepositorio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T23:56:43.041Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 22,
               "Title": "SistemaRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\Repositorios\\SistemaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Repositorios\\SistemaRepositorio.cs",
               "RelativeDocumentMoniker": "sistemaGerencia\\Repositorios\\SistemaRepositorio.cs",
-              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\Repositorios\\SistemaRepositorio.cs",
+              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Repositorios\\SistemaRepositorio.cs",
               "RelativeToolTip": "sistemaGerencia\\Repositorios\\SistemaRepositorio.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -161,87 +400,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 23,
+              "Title": "PermissaoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Repositorios\\PermissaoRepositorio.cs",
+              "RelativeDocumentMoniker": "sistemaGerencia\\Repositorios\\PermissaoRepositorio.cs",
+              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\Repositorios\\PermissaoRepositorio.cs",
+              "RelativeToolTip": "sistemaGerencia\\Repositorios\\PermissaoRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:17:24.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\appsettings.json",
               "RelativeDocumentMoniker": "sistemaGerencia\\appsettings.json",
-              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\appsettings.json",
+              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\appsettings.json",
               "RelativeToolTip": "sistemaGerencia\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-11-25T23:55:56.434Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\Program.cs",
-              "RelativeDocumentMoniker": "sistemaGerencia\\Program.cs",
-              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\Program.cs",
-              "RelativeToolTip": "sistemaGerencia\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T23:51:58.365Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TokenService.cs",
-              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\TokenService.cs",
-              "RelativeDocumentMoniker": "sistemaGerencia\\TokenService.cs",
-              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\TokenService.cs",
-              "RelativeToolTip": "sistemaGerencia\\TokenService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T23:51:57.465Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UsuarioModel.cs",
-              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\Models\\UsuarioModel.cs",
-              "RelativeDocumentMoniker": "sistemaGerencia\\Models\\UsuarioModel.cs",
-              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\Models\\UsuarioModel.cs",
-              "RelativeToolTip": "sistemaGerencia\\Models\\UsuarioModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:08:01.296Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SistemaModel.cs",
-              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\Models\\SistemaModel.cs",
-              "RelativeDocumentMoniker": "sistemaGerencia\\Models\\SistemaModel.cs",
-              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\Models\\SistemaModel.cs",
-              "RelativeToolTip": "sistemaGerencia\\Models\\SistemaModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:07:56.64Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PermissaoModel.cs",
-              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\Models\\PermissaoModel.cs",
-              "RelativeDocumentMoniker": "sistemaGerencia\\Models\\PermissaoModel.cs",
-              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\Models\\PermissaoModel.cs",
-              "RelativeToolTip": "sistemaGerencia\\Models\\PermissaoModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:07:49.858Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "GrupoModel.cs",
-              "DocumentMoniker": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\Models\\GrupoModel.cs",
-              "RelativeDocumentMoniker": "sistemaGerencia\\Models\\GrupoModel.cs",
-              "ToolTip": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\Models\\GrupoModel.cs",
-              "RelativeToolTip": "sistemaGerencia\\Models\\GrupoModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:07:30.613Z"
             }
           ]
         }

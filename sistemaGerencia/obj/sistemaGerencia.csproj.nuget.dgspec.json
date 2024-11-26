@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\sistemaGerencia.csproj": {}
+    "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\sistemaGerencia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\sistemaGerencia.csproj": {
+    "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\sistemaGerencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\sistemaGerencia.csproj",
+        "projectUniqueName": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\sistemaGerencia.csproj",
         "projectName": "sistemaGerencia",
-        "projectPath": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\sistemaGerencia.csproj",
+        "projectPath": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\sistemaGerencia.csproj",
         "packagesPath": "C:\\Users\\mairo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mairo\\Desktop\\sistemaGerencia-master\\sistemaGerencia\\obj\\",
+        "outputPath": "C:\\Users\\mairo\\Desktop\\sistemaGerencia\\sistemaGerencia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
